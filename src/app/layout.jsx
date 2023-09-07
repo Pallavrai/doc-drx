@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'doc-drx',
-  description: 'Med recoemndations based on symptoms',
+  description: 'Med recommendations based on symptoms',
 }
 
 export default function RootLayout({ children }) {
